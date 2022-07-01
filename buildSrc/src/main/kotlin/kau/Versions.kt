@@ -90,10 +90,10 @@ object Versions {
     const val bugsnag = "5.15.0"
 
     // https://github.com/bugsnag/bugsnag-android-gradle-plugin/releases
-    const val bugsnagPlugin = "7.1.0"
+    const val bugsnagPlugin = "7.2.0"
 
     // https://mvnrepository.com/artifact/com.android.tools.build/gradle?repo=google
-    const val gradlePlugin = "7.1.0-beta03"
+    const val gradlePlugin = "7.2.0"
 
     // https://github.com/Triple-T/gradle-play-publisher/releases
     const val playPublishPlugin = "3.6.0"
