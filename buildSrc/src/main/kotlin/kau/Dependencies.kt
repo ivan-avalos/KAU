@@ -5,10 +5,10 @@ package kau
  */
 object Dependencies {
     @JvmStatic
-    fun kau(version: String) = "ca.allanwang:kau:$version"
+    fun kau(version: String) = "com.github.ivan-avalos.kau:$version"
 
     @JvmStatic
-    fun kau(type: String, version: String) = "ca.allanwang.kau:$type:$version"
+    fun kau(type: String, version: String) = "com.github.ivan-avalos.kau:$type:$version"
 
     @JvmStatic
     fun kauAbout(version: String) = kau("about", version)
